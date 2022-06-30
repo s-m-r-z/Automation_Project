@@ -1,0 +1,40 @@
+2022-01-16 21:08:30,863 [12] INFO Automation_Project.UnitTest1 - Running Test Case Login with valid credentials
+2022-01-16 21:08:38,600 [12] INFO Automation_Project.UnitTest1 - Test Case Successfully Run
+2022-01-16 21:40:21,764 [12] INFO Automation_Project.UnitTest1 - ProfilePage tabs switching test case runing
+2022-01-16 21:40:43,591 [12] INFO Automation_Project.UnitTest1 - ProfilePage Test Case Successfully Run
+2022-01-16 21:41:11,074 [12] INFO Automation_Project.UnitTest1 - ProfilePage pictureupload test case runing
+2022-01-16 21:41:41,716 [12] INFO Automation_Project.UnitTest1 - ProfilePage Test Case Successfully Run
+2022-01-17 17:13:07,041 [12] INFO Automation_Project.UnitTest1 - Running Test Case Login with valid credentials
+2022-01-17 17:13:24,158 [12] INFO Automation_Project.UnitTest1 - Valid User Test Case Successfully Run
+2022-01-17 17:13:39,639 [12] INFO Automation_Project.UnitTest1 - Running Test Case Login with Invalid credentials
+2022-01-17 17:13:49,320 [12] INFO Automation_Project.UnitTest1 - InValid User Test Case Successfully Run
+2022-01-17 17:15:14,292 [12] INFO Automation_Project.UnitTest1 - Running Test Case Login with valid credentials
+2022-01-17 17:15:22,191 [12] INFO Automation_Project.UnitTest1 - Valid User Test Case Successfully Run
+2022-01-17 17:18:35,066 [12] INFO Automation_Project.UnitTest1 - Running Test Case Login with valid credentials
+2022-01-17 17:18:45,461 [12] INFO Automation_Project.UnitTest1 - Valid User Test Case Successfully Run
+2022-01-17 17:23:19,230 [12] INFO Automation_Project.UnitTest1 - Running Test Case Login with Invalid credentials
+2022-01-17 17:23:28,844 [12] INFO Automation_Project.UnitTest1 - InValid User Test Case Successfully Run
+2022-01-17 17:23:28,996 [12] INFO Automation_Project.UnitTest1 - Running Test Case Login with valid credentials
+2022-01-17 17:23:41,682 [12] INFO Automation_Project.UnitTest1 - Valid User Test Case Successfully Run
+2022-01-17 17:23:41,708 [12] INFO Automation_Project.UnitTest1 - OverviewPage LogOut test case runing
+2022-01-17 17:24:12,822 [12] INFO Automation_Project.UnitTest1 - OverviewPage LogOut Test Case Successfully Run
+2022-01-17 17:24:12,824 [12] INFO Automation_Project.UnitTest1 - OverviewPage switch tab test case runing
+2022-01-17 17:24:24,106 [12] INFO Automation_Project.UnitTest1 - OverviewPage Test Case Successfully Run
+2022-01-17 17:24:24,120 [12] INFO Automation_Project.UnitTest1 - ProfilePage pictureupload test case runing
+2022-01-17 17:24:57,047 [12] INFO Automation_Project.UnitTest1 - ProfilePage Test Case Successfully Run
+2022-01-17 17:24:57,059 [12] INFO Automation_Project.UnitTest1 - ProfilePage tabs switching test case runing
+2022-01-17 17:25:11,714 [12] INFO Automation_Project.UnitTest1 - ProfilePage Test Case Successfully Run
+2022-01-17 17:25:11,717 [12] INFO Automation_Project.UnitTest1 - ResourcePage Test Case to switch tabs Successfully Run
+2022-01-17 17:25:22,666 [12] INFO Automation_Project.UnitTest1 - ResourcePage Test Case Successfully Run
+2022-01-17 17:25:22,669 [12] INFO Automation_Project.UnitTest1 - Memebership Test to switch tabs Successfully Run
+2022-01-17 17:25:34,266 [12] INFO Automation_Project.UnitTest1 - Memebership Test Case Successfully Run
+2022-01-17 17:25:34,270 [12] INFO Automation_Project.UnitTest1 - Tabs Changing Test Case on WelcomePage Running
+2022-01-17 17:25:47,274 [12] INFO Automation_Project.UnitTest1 - Test Case Successfully Run
+2022-01-17 17:25:47,278 [12] INFO Automation_Project.UnitTest1 - Membership Test Case Tick selected option running
+2022-01-17 17:26:00,308 [12] INFO Automation_Project.UnitTest1 - Membership Test Case Successfully Run
+2022-01-17 17:26:00,315 [12] INFO Automation_Project.UnitTest1 - Membership Test Case UnTick selected option running
+2022-01-17 17:26:09,569 [12] INFO Automation_Project.UnitTest1 - Membership Test Case Successfully Run
+2022-01-17 17:26:09,573 [12] INFO Automation_Project.UnitTest1 - WorksitePageSetupPage Case search from the available list running
+2022-01-17 17:26:24,435 [12] INFO Automation_Project.UnitTest1 - WorksitePageSetupPage Test Case Successfully Run
+2022-01-17 17:26:24,439 [12] INFO Automation_Project.UnitTest1 - WorksitePageSetupPage Test Case to dropdown the view and term options runing
+2022-01-17 17:26:38,308 [12] INFO Automation_Project.UnitTest1 - WorksitePageSetupPage Test Case Successfully Run
